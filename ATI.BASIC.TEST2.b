@@ -1,0 +1,11 @@
+	PROGRAM ATI.BASIC.TEST2
+	
+	$INSERT I_COMMON
+	$INSERT I_EQUATE
+	
+	CRT "Hello, test BASIC program from IMB.BP!"
+	INPUT Y.INP
+	
+	RETURN
+	
+END
